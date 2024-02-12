@@ -1,6 +1,6 @@
 # WebScrapingWithPython
 
-This code is used to scrape and process data from websites where software-related articles are shared. The determined topics are given as input values to the algorithm. Access to the web page is provided by the Request library, then the HTML codes of the page are parsed and certain filtering operations are performed on it with BeatifulSoup library methods . As a result, the required data is received in JSON or CSV format.
+This code is used to scrape and process data from websites where software-related articles are shared. Web addresses (URLs), where articles on the specified topics are listed, are given as input values to the algorithm in csv file format. Access to the web page is provided by the Request library, then the HTML codes of the page are parsed and certain filtering operations are performed on it with BeatifulSoup library methods . As a result, the required data is received in JSON or CSV format.
 
 ![Web Scraping](https://github.com/arif-cloud/WebScrapingWithPython/assets/73065590/d7ce4940-4111-4e9d-8244-03dc66d5e47e)
 
